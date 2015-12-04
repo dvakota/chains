@@ -6,7 +6,7 @@ Simple Markov Chains text generator
 
 2) from src/     
 $ javac *.java     
-$ Chainme f=corpus-file-name n=ngram-size i=sampling-iterations     
+$ java Chainme f=corpus-file-name n=ngram-size i=sampling-iterations     
 
 example:     
 $ Chainme f=corpus1.txt n=3 i=10000      
